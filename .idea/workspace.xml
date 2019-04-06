@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0787813b-95e0-463e-929f-e4d9518caa21" name="Default Changelist" comment="" />
+    <list default="true" id="0787813b-95e0-463e-929f-e4d9518caa21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/dao/UsersRepositoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/dao/UsersRepositoryDaoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/repository/UsersRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/isa/usersengine/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/isa/usersengine/servlet/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/dao/UsersRepositoryDaoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/repository/UsersRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/classes/com/isa/usersengine/servlet/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/lib/javaee-api-8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/lib/javax.mail-1.6.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/users-engine/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usersengine.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +51,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="189">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
@@ -259,7 +298,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554551397503" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554551859923" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -307,15 +346,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554538358114</updated>
-      <workItem from="1554538364388" duration="10334000" />
+      <workItem from="1554538364388" duration="10648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10334000" />
+    <option name="totallyTimeSpent" value="10648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="717" y="25" width="1203" height="1055" extended-state="5" />
+    <frame x="717" y="25" width="1203" height="1055" extended-state="4" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -325,7 +365,7 @@
       <window_info id="Web" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25064823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33045357" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33045357" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" weight="0.3297414" />
@@ -456,13 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -470,6 +503,13 @@
         </state>
       </provider>
       <provider editor-type-id="com.intellij.javaee.oss.jboss.editor.JBossWebRootProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
